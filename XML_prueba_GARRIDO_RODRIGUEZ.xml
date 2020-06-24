@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTELERA>
+    <Pelicula>
+        <Codigo> 08373534 </Codigo>
+        <Titulo> Avengers EndGame </Titulo>
+        <Año>2006</Año>
+        <Duracion> 
+                  <horas> 3 </horas>
+                  <minutos> 2 </minutos>
+                  <segundos> 20 </segundos>
+        </Duracion>
+        <Nacionalidad>Estados Unidos</Nacionalidad>
+        <Genero>Accion</Genero>
+        <Clasificacion>Mayores a 16 años</Clasificacion>
+        <Director> 
+                  <nombre> Joe </nombre>
+                  <apellido> Russo </apellido>
+                  <fechadenacimiento>Julio 08 de 1971
+                     <año> 1971</año>
+                     <mes> Julio </mes>
+                     <dia> 08 </dia>
+                  </fechadenacimiento>                           
+        </Director>
+                
+        <Reparto> 
+            <ActoresPrincipales>
+             <NombrsOriginales> Robert Downey </NombrsOriginales>
+             <NombreEnPelicula> Iron Man </NombreEnPelicula>
+
+           </ActoresPrincipales>
+
+            <ActoresSecundarios> 
+              <NombrsOriginales> Chris Hemsworth </NombrsOriginales>
+             <NombreEnPelicula> Thor </NombreEnPelicula>
+         </ActoresSecundarios>
+            <Dobles>
+             <NombrsOriginales> Vin Diesel </NombrsOriginales>
+             <AquienSustiruye> Groot </AquienSustiruye>
+           </Dobles>
+       </Reparto>
+       <Sinopsis> Los Vengadores restantes deben encontrar una 
+        manera de recuperar a sus aliados para un enfrentamiento 
+        épico con Thanos, el malvado que diezmó el planeta y 
+        el universo. </Sinopsis>
+
+    </Pelicula>   
+</CARTELERA>
